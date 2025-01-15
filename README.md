@@ -14,7 +14,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 </a>
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Luan-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -22,6 +21,7 @@
 </div>
 
 ##
+
 <div> 
   <a href="https://www.linkedin.com/in/luan-carvalh0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/CarvalhoO3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -29,6 +29,15 @@
 </div>
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarvalhoO3" alt="Luan's GitHub stats">
-</a>
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <!-- Status do Git -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CarvalhoO3" alt="Luan's GitHub stats" width="400px">
+  </a>
+
+  <!-- Top linguagens mais usadas -->
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoO3&hide=html&layout=compact&theme=buefy" />
+</div>
+
+</div>
