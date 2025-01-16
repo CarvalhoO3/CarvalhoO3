@@ -36,7 +36,7 @@
   </a>
 
   <!-- Top linguagens mais usadas -->
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoO3&hide=html&layout=compact&theme=buefy" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoO3&theme=vision-friendly-dark&layout=donut&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </div>
